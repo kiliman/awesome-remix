@@ -16,6 +16,8 @@ A curated list of awesome [Remix 💿](https://remix.run) packages and resources
 - [remix-utils](https://github.com/sergiodxa/remix-utils) - A set of utility functions and types to use with Remix.run
 - [remix-i18next](https://github.com/sergiodxa/remix-i18next) - The easiest way to translate your Remix apps
 - [remix-seo](https://github.com/chaance/remix-seo) - A package for easily managing SEO meta and link tags in Remix.
+- [remix-params-helper](https://github.com/kiliman/remix-params-helper) - A package to simplify parsing and validating 
+  URLSearchParams, FormData, and Remix params using zod
 
 ## Templates
 
